@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "TALLER"
+subtitle: "CONCEPTOS"
 author: 
   - name: Jose Santiago Ramirez Hernandez
   - name: Sebastian Mahecha Veru
