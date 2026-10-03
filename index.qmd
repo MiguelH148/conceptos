@@ -769,7 +769,7 @@ Un análisis profesional puede seguir la siguiente secuencia:
 Importación de datos         ↓ Exploración de variables         ↓ Identificación del tipo de variable         ↓ Distribución unidimensional         ↓ Frecuencias absolutas y relativas         ↓ Representación gráfica         ↓ Distribución bidimensional         ↓ Frecuencias conjuntas y marginales         ↓ Porcentajes condicionales         ↓ Representación gráfica         ↓ Análisis de asociación         ↓ Interpretación estadística 
 ```
 
-# [**Conclusion**]{style="color:Green"}
+# [**Conclusion**]{style="color:Red"}
 
 Las **distribuciones de frecuencias unidimensionales** permiten organizar y resumir la información correspondiente a una sola variable mediante frecuencias absolutas, acumuladas, relativas y porcentuales.
 
